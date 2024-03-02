@@ -1,4 +1,8 @@
-### Hi there 👋
+### sapphirecat 🩵🐈 (he/him)
+
+Major introvert, unofficial music student,
+writer of [Decoded Node](https://www.decodednode.com/), and
+webslinger of [sapphirepaw.org](https://www.sapphirepaw.org/).
 
 <!--
 **sapphirecat/sapphirecat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
