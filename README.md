@@ -10,11 +10,13 @@ Generally speaking, this is not professional work.  This is a personal set of
 repositories where I am chasing whatever whimsy appeals.
 
 As exclusions to the above, the following repositories are known to be in
-production:
+production, or otherwise receiving above-average attention:
 
 - [devproxy2](https://github.com/sapphirecat/devproxy2)
 - [dynacache](https://github.com/sapphirecat/dynacache), though source is
   unavailable for political reasons
+- [quilt-draw](https://github.com/sapphirecat/quilt-draw) and its
+  [stable release](https://sapphirecat.github.io/quilt-draw)
 
 There is no support guarantee, but they are _more_ likely to be proactively
 updated if they break.
