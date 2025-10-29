@@ -1,8 +1,8 @@
-### sapphirecat 🩵🐈 (he/him)
+### 🩵 sapphirecat 🐈
 
 Major introvert, unofficial music student,
-writer of [Decoded Node](https://www.decodednode.com/), and
-webslinger of [sapphirepaw.org](https://www.sapphirepaw.org/).
+and writer of [Decoded Node](https://www.decodednode.com/) and
+[sapphirepaw.org](https://www.sapphirepaw.org/).
 
 #### Quality Notice
 
@@ -12,7 +12,8 @@ repositories where I am chasing whatever whimsy appeals.
 As exclusions to the above, the following repositories are known to be in
 production, or otherwise receiving above-average attention:
 
-- [devproxy2](https://github.com/sapphirecat/devproxy2)
+- [devproxy2](https://github.com/sapphirecat/devproxy2);
+  for toolchain reasons, a predecessor _exists,_ but it is abandonware.
 - [dynacache](https://github.com/sapphirecat/dynacache), though source is
   unavailable for political reasons
 - [quilt-draw](https://github.com/sapphirecat/quilt-draw) and its
@@ -20,7 +21,6 @@ production, or otherwise receiving above-average attention:
 
 There is no support guarantee, but they are _more_ likely to be proactively
 updated if they break.
-
 
 <!--
 **sapphirecat/sapphirecat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
