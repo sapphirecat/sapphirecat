@@ -4,6 +4,16 @@ Major introvert, unofficial music student,
 and writer of [Decoded Node](https://www.decodednode.com/) and
 [sapphirepaw.org](https://www.sapphirepaw.org/).
 
+#### I Used to Have an Avatar on GitHub
+
+It seems GitHub lost my pfp somewhere.  Sorry.  It's irreplaceable.
+Not only that, they didn't even email me about it.
+It just disappeared.
+The internet searches know nothing.
+There are no announcements in the changelog.
+
+I can't tell if it's an intentional change, or just another outage…
+
 #### Quality Notice
 
 Generally speaking, this is not professional work.  This is a personal set of
